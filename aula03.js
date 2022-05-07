@@ -9,5 +9,5 @@ const texto1 = "leo"
 const texto2 = "dri"
 
 console.log(texto1 === texto2) 
+console.log(texto1 === texto2) 
 
-oi
